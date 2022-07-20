@@ -1,1 +1,1 @@
-# pygtk-to-pyside6
+# Nut Manager
