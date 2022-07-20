@@ -1,0 +1,32 @@
+
+
+QWidget {
+background-color: #32454d;
+color: #aee0f5;
+
+/* width: 10px; /* when vertical /
+/* height: 10px; / when horizontal */
+}
+
+QLabel {
+    /* background-color: #ABB2B9; */ 
+    color: #aee0f5;
+    /* background-color: #ABB2B9; */ 
+    qproperty-alignment: AlignCenter;
+    font-size: 25px;
+    text-align: center;
+}
+
+QLineEdit {
+    color: #aee0f5;
+    qproperty-alignment: AlignCenter;
+    font-size: 30px;
+    text-align: center;
+}
+
+QPushButton {
+    background-color: #aee0f5;
+    color: #32454d;
+    font-size: 25px;
+}
+
